@@ -1,4 +1,4 @@
-<!--# 💫 About Me:
+# 💫 About Me:
 I am currently working on -<br>building scalable applications, Micro frontends and Enterprise healthcare + Banking Solutions<br><br>I am looking to collaborate on -<br>Frontend Architecture, AI powered web apps and developer focussed products.<br><br>I am looking for help with -<br>Advanced System Design, Performance Optimization and cloud native frontend practices <br><br>I am currently learning - <br>MCP Servers and Modern Frontend Architectures along with AI capabilities<br><br>Ask me About - <br>Frontend Engineering, Job Interviews and life as a software Engineer<br><br>Fun Fact -<br>Senior Software Engineer |  Tech Creator | Coder<br><br>
 
 
